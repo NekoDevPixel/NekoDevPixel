@@ -1,5 +1,16 @@
 ## Hi there 👋
 
-## 🎮
-Unity를 중심으로 2D 게임 개발을 공부하고 있으며, 재미있고 창의적인 게임을 만드는 것을 좋아합니다.  
-새로운 기술을 배우는 것을 즐기고, 다양한 프로젝트를 통해 실력을 키워가고 있습니다.
+## 🗨️About me
+안녕하세요!
+게임을 플레이 하던 게이머에서 게임 개발자의 길을 걷기 시작한 프로그래머입니다.
+게임 개발자가 하고 싶었던 이유는, 여러 장르의 게임을 플레이하면서 
+
+## 🔧 기술 스택
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
+</p>
