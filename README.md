@@ -15,5 +15,5 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sahawng04)](https://solved.ac/sahwang04/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sahwang04)](https://solved.ac/sahwang04/)
 
