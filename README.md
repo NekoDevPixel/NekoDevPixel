@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sahwang04)](https://solved.ac/sahwang04/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoDevPixel&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoDevPixel&show_icons=true&theme=radical)
 ## 🗨️About me
 안녕하세요!<br>
 게임을 플레이 하던 게이머에서 게임 개발자의 길을 걷기 시작한 프로그래머입니다.
