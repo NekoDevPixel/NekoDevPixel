@@ -37,5 +37,10 @@
 
 - **[Lunar Hunter (개발 중)](https://github.com/NekoDevPixel/Lunar-Hunter)**  
   현재 개발 중인 프로젝트로, 우주를 배경으로 한 2D 슈팅 게임입니다.  
-  플레이어의 빠른 반응과 전략적 플레이가 요구되는 도전적인 게임을 만들고 있습니다.  
+  플레이어의 빠른 반응과 전략적 플레이가 요구되는 도전적인 게임을 만들고 있습니다.
+
+## 🎮 My Gaming Profiles
+
+[![Steam](https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/robot8023)
+
 
